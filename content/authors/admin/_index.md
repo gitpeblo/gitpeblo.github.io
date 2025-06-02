@@ -12,7 +12,7 @@ last_name: Bonfini
 
 # Status emoji
 status:
-  icon: 🦑
+  icon: 🦎
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,27 +53,26 @@ interests:
   - Astrophysics & Bioinformatics
 
 education:
-  # - area: PhD Artificial Intelligence
-  #   institution: Stanford University
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-  #   button:
-  #     text: 'Read Thesis'
-  #     url: 'https://example.com'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
-
+  - area: PhD Astrophysics
+    institution: University of Crete, Greece
+    # date_start: 2016-01-01
+    date_end: 2013-06-13
+    summary: |
+      Thesis on _Galaxy evolution__. Supervised by [Prof Andreas Zezas](https://www.physics.uoc.gr/en/faculty/a.zezas).
+    button:
+      text: 'Read Thesis'
+      url: 'https://users.physics.uoc.gr/~paolo/public_data/PhD_thesis/Paolo_Bonfini_PhD_thesis.pdf'
+  - area: MSc Astrophysics
+    institution: University of Milano-Bicocca (Italy)
+    # date_start: 2016-01-01
+    date_end: 2008-04-28
+    # summary: |
+    #   GPA: 3.8/4.0
   #     Courses included:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - area: BSc Artificial Intelligence
+  # - area: BSc Physics
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
   #   date_end: 2020-12-31
