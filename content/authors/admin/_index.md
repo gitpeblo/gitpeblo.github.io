@@ -54,9 +54,9 @@ interests:
 
 education:
   - area: PhD Astrophysics
-    institution: University of Crete, Greece
+    institution: University of Crete (Greece)
     # date_start: 2016-01-01
-    date_end: 2013-06-13
+    # date_end: 2013-06-13
     summary: |
       Thesis on _Galaxy evolution__. Supervised by [Prof Andreas Zezas](https://www.physics.uoc.gr/en/faculty/a.zezas).
     button:
@@ -65,15 +65,15 @@ education:
   - area: MSc Astrophysics
     institution: University of Milano-Bicocca (Italy)
     # date_start: 2016-01-01
-    date_end: 2008-04-28
+    # date_end: 2008-04-28
     # summary: |
     #   GPA: 3.8/4.0
   #     Courses included:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - area: BSc Physics
-  #   institution: Massachusetts Institute of Technology
+  - area: BSc Physics
+    institution: University of Milano-Bicocca (Italy)
   #   date_start: 2016-01-01
   #   date_end: 2020-12-31
   #   summary: |
