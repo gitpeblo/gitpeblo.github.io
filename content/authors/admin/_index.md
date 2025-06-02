@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Data Analyst and Researcher
+title: Data Analyst<br>Researcher
 
 # Name pronunciation (optional)
 name_pronunciation: Paolo Bonfini
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Analyst<br>Research Engineer
+role: Lead Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
