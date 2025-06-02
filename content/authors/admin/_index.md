@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Data Analyst<br>Researcher
+title: Data Analyst  
+  Researcher
 
 # Name pronunciation (optional)
 name_pronunciation: Paolo Bonfini
