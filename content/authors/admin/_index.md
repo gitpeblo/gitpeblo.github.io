@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Analyst and Research Engineer
+role: Data Analyst<br>Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
